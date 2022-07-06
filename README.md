@@ -1,6 +1,6 @@
 # ij.start.canon
 
-[![ij.start.canon](getstaredd.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![ij.start.canon](get-start.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
 ##  Where To Buy Canon Printer?
 
